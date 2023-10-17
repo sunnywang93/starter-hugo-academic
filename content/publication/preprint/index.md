@@ -1,8 +1,10 @@
 ---
-title: "An example preprint / working paper"
+title: "Adaptive Functional Principal Components Analysis"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Valentin Patilea
+- Nicolas Klutchnikoff
+date: "2023-07-29T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,26 +20,19 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: "Functional data analysis (FDA) almost always involves smoothing discrete observations into curves, because they are never observed in continuous time and rarely without error. Although smoothing parameters affect the subsequent inference, data-driven methods for selecting these parameters are not well-developed, frustrated by the difficulty of using all the information shared by curves while being computationally efficient. 
+On the one hand, smoothing individual curves in an isolated, albeit sophisticated way, ignores useful signals present in other curves. On the other hand, bandwidth selection by automatic procedures such as cross-validation after pooling all the curves together quickly become computationally unfeasible due to the large number of data points. 
+In this paper we propose a new data-driven, adaptive kernel smoothing method, specifically tailored for functional principal components analysis (FPCA) through the derivation of sharp, explicit risk bounds for the eigen-elements. The minimization of these quadratic risk bounds provide refined, yet computationally efficient bandwidth rules for each eigen-element separately. Both common and independent design cases are allowed.  
+Rates of convergence for the adaptive eigen-elements estimators are derived. 
+An extensive simulation study, designed in a versatile manner to closely mimic characteristics of real data sets, support our methodological contribution, which is available for use in the R package FDAdapt."
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://arxiv.org/abs/2306.16091
+url_code: 'https://github.com/sunnywang93/FDAdapt'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -59,11 +54,5 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

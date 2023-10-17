@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Sunny Wang
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Sunny
+last_name: Wang
 
 # Status emoji
 status:
@@ -14,34 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Statistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ENSAI
+    url: https://ensai.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include adaptive methods in functional data analysis, and more generally statistical machine learning. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Functional Data Analysis
+  - Statistical Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Applied Mathematics (Statistics)
+      institution: ENSAI
+      year: Ongoing
+    - course: MSc in Statistics & Econometrics
+      institution: Toulouse School of Economics
+      year: 2021
+    - course: BSc in Economics
+      institution: Singapore Management University
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +49,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: mailto:sunny.wang@ensai.fr
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sunnywang93
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sunny-wang93/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +64,10 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'sunny.wang@ensai.fr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Hello and welcome! I'm a PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea, where I mainly study adaptive methods.
