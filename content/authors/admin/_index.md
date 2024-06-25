@@ -22,7 +22,7 @@ organizations:
     url: https://ensai.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include adaptive methods in functional data analysis, and more generally statistical machine learning. 
+bio: My research interests include functional data analysis, and more generally statistical machine learning. 
 
 # Interests to show in About widget
 interests:
@@ -70,4 +70,4 @@ email: 'sunny.wang@ensai.fr'
 highlight_name: true
 ---
 
-Hello and welcome! I'm a PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea, where I mainly study adaptive methods.
+Hello and welcome! I'm a 3rd year PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea.
