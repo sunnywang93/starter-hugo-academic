@@ -1,10 +1,11 @@
 ---
-title: "Adaptive Functional Principal Components Analysis"
+title: "Structural adaptation via directional regularity: rate accelerated estimation in multivariate functional data"
 authors:
+
+- Omar Kassi
 - admin
-- Valentin Patilea
-- Nicolas Klutchnikoff
-date: "2023-07-29T00:00:00Z"
+
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,19 +21,15 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "Functional data analysis (FDA) almost always involves smoothing discrete observations into curves, because they are never observed in continuous time and rarely without error. Although smoothing parameters affect the subsequent inference, data-driven methods for selecting these parameters are not well-developed, frustrated by the difficulty of using all the information shared by curves while being computationally efficient. 
-On the one hand, smoothing individual curves in an isolated, albeit sophisticated way, ignores useful signals present in other curves. On the other hand, bandwidth selection by automatic procedures such as cross-validation after pooling all the curves together quickly become computationally unfeasible due to the large number of data points. 
-In this paper we propose a new data-driven, adaptive kernel smoothing method, specifically tailored for functional principal components analysis (FPCA) through the derivation of sharp, explicit risk bounds for the eigen-elements. The minimization of these quadratic risk bounds provide refined, yet computationally efficient bandwidth rules for each eigen-element separately. Both common and independent design cases are allowed.  
-Rates of convergence for the adaptive eigen-elements estimators are derived. 
-An extensive simulation study, designed in a versatile manner to closely mimic characteristics of real data sets, support our methodological contribution, which is available for use in the R package FDAdapt."
+abstract: "We introduce directional regularity, a new definition of anisotropy for multivariate functional data. Instead of taking the conventional view which determines anisotropy as a notion of smoothness along a dimension, directional regularity additionally views anisotropy through the lens of directions. We show that faster rates of convergence can be obtained through a change-of-basis by adapting to the directional regularity of a multivariate process. An algorithm for the estimation and identification of the change- of-basis matrix is constructed, made possible due to the unique replication structure of functional data. Non-asymptotic bounds are provided for our algorithm, supplemented by numerical evidence from an extensive simulation study. We discuss two possible applications of the directional regularity approach, and advocate its consideration as a standard pre-processing step in multivariate functional data analysis."
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/2306.16091
-url_code: 'https://github.com/sunnywang93/FDAdapt'
+url_pdf: https://arxiv.org/abs/2409.00817
+url_code: https://github.com/sunnywang93/direg
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
