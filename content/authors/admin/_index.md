@@ -61,7 +61,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume_sep.pdf
+    link: static/uploads/resume_sep.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'sunny.wang@ensai.fr'
