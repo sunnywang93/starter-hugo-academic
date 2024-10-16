@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "arXiv:2409.00817"
 publication_short: ""
 
 abstract: "We introduce directional regularity, a new definition of anisotropy for multivariate functional data. Instead of taking the conventional view which determines anisotropy as a notion of smoothness along a dimension, directional regularity additionally views anisotropy through the lens of directions. We show that faster rates of convergence can be obtained through a change-of-basis by adapting to the directional regularity of a multivariate process. An algorithm for the estimation and identification of the change- of-basis matrix is constructed, made possible due to the unique replication structure of functional data. Non-asymptotic bounds are provided for our algorithm, supplemented by numerical evidence from an extensive simulation study. We discuss two possible applications of the directional regularity approach, and advocate its consideration as a standard pre-processing step in multivariate functional data analysis."

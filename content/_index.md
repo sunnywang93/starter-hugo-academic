@@ -15,7 +15,6 @@ sections:
     id: publication
     content:
       title: Research
-      text: Preprints
       filters:
         folders:
           - publication

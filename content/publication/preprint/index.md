@@ -14,10 +14,10 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Accepted, Journal of the Royal Statistical Society, Series B (Statistical Methodology)"
 publication_short: ""
 
 abstract: "Functional data analysis (FDA) almost always involves smoothing discrete observations into curves, because they are never observed in continuous time and rarely without error. Although smoothing parameters affect the subsequent inference, data-driven methods for selecting these parameters are not well-developed, frustrated by the difficulty of using all the information shared by curves while being computationally efficient. 
