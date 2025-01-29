@@ -70,4 +70,4 @@ email: 'sunny.wang@ensai.fr'
 highlight_name: true
 ---
 
-Hello and welcome! I'm a 3rd year PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea.
+Hello and welcome! I'm a 4th year PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea. I am expected to graduate in April 2025 and am currently looking for new opportunities.
