@@ -27,7 +27,8 @@ bio: My research interests include functional data analysis, and more generally 
 # Interests to show in About widget
 interests:
   - Functional Data Analysis
-  - Statistical Machine Learning
+  - Statistical Learning
+  - Gastronomy
 
 # Education to show in About widget
 education:
