@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Statistics
+role: Statistician
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: ENSAI
-    url: https://ensai.fr/en/
+#organizations:
+#  - name: ENSAI
+#    url: https://ensai.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include functional data analysis, and more generally statistical machine learning. 
@@ -32,9 +32,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Applied Mathematics (Statistics)
+    - course: PhD in Applied Mathematics
       institution: ENSAI
-      year: Ongoing
+      year: 2025
     - course: MSc in Statistics & Econometrics
       institution: Toulouse School of Economics
       year: 2021
@@ -70,4 +70,4 @@ email: 'sunny.wang@ensai.fr'
 highlight_name: true
 ---
 
-Hello and welcome! I'm a 4th year PhD candidate at École Nationale de la Statistique et de l'Analyse de l'Information (ENSAI), primarily doing research in functional data analysis under the supervision of Valentin Patilea. I am expected to graduate in April 2025 and am currently looking for new opportunities.
+Hello and welcome! I recently completed my PhD in Applied Mathematics / Statistics from ENSAI.
