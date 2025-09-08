@@ -22,13 +22,13 @@ role: Statistician
 #    url: https://ensai.fr/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include functional data analysis, and more generally statistical machine learning. 
+bio: My research interests include statistical machine learning, high-dimensional statistics and functional data analysis. 
 
 # Interests to show in About widget
 interests:
+  - Statistical Machine Learning
+  - High-dimensional Statistics
   - Functional Data Analysis
-  - Statistical Learning
-  - Gastronomy
 
 # Education to show in About widget
 education:
@@ -65,10 +65,10 @@ social:
     link: static/uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'sunny.wang@ensai.fr'
+email: 'sunny.wanggw@ntu.edu.sg'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello and welcome! I recently completed my PhD in Applied Mathematics / Statistics from ENSAI.
+Hello and welcome! I am currently a postdoctoral research fellow at the Nanyang Technological University (NTU), working with Hemant Tyagi.

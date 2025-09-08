@@ -4,7 +4,7 @@ authors:
 - admin
 - Valentin Patilea
 - Nicolas Klutchnikoff
-date: "2023-07-29T00:00:00Z"
+date: "2025-07-03T00:00:00Z"
 doi: "https://doi.org/10.1093/jrsssb/qkae106"
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming, Journal of the Royal Statistical Society, Series B (Statistical Methodology)"
+publication: "Journal of the Royal Statistical Society Series B: Statistical Methodology, 87(3), 603-631"
 publication_short: ""
 
 abstract: "Functional data analysis (FDA) almost always involves smoothing discrete observations into curves, because they are never observed in continuous time and rarely without error. Although smoothing parameters affect the subsequent inference, data-driven methods for selecting these parameters are not well-developed, frustrated by the difficulty of using all the information shared by curves while being computationally efficient. 
@@ -31,7 +31,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/2306.16091
+url_pdf: https://academic.oup.com/jrsssb/article-abstract/87/3/603/7914982?redirectedFrom=fulltext
 url_code: 'https://github.com/sunnywang93/FDAdapt'
 
 # Featured image

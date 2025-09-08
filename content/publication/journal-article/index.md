@@ -5,7 +5,7 @@ authors:
 - Valentin Patilea
 - admin
 
-date: "2024-09-01T00:00:00Z"
+date: "2025-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arXiv:2409.00817"
+publication: "Accepted, Computational Statistics & Data Analysis"
 publication_short: ""
 
 abstract: "The computation of integrals is a fundamental task in the analysis of functional data, which are typically considered as random elements in a space of squared integrable functions. Borrowing ideas from recent advances in the Monte Carlo integration literature, we propose effective unbiased estimation and inference procedures for integrals of uni- and multivariate random functions. Several applications to key problems in functional data analysis (FDA) involving random design points are studied and illustrated. In the absence of noise, the proposed estimates converge faster than the sample mean and the usual algorithms for numerical integration. Moreover, the proposed estimator facilitates effective inference by generally providing better coverage with shorter confidence and prediction intervals, in both noisy and noiseless setups."
