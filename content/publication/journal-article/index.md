@@ -1,11 +1,11 @@
 ---
-title: "Rate accelerated inference for integrals of multivariate random functions"
+title: "Structural adaptation and rate accelerated estimation in bivariate functional data"
 authors:
 
-- Valentin Patilea
+- Omar Kassi
 - admin
 
-date: "2025-09-01T00:00:00Z"
+date: "2026-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -18,18 +18,24 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted, Computational Statistics & Data Analysis"
+publication: "Accepted, Bernoulli"
 publication_short: ""
 
-abstract: "The computation of integrals is a fundamental task in the analysis of functional data, which are typically considered as random elements in a space of squared integrable functions. Borrowing ideas from recent advances in the Monte Carlo integration literature, we propose effective unbiased estimation and inference procedures for integrals of uni- and multivariate random functions. Several applications to key problems in functional data analysis (FDA) involving random design points are studied and illustrated. In the absence of noise, the proposed estimates converge faster than the sample mean and the usual algorithms for numerical integration. Moreover, the proposed estimator facilitates effective inference by generally providing better coverage with shorter confidence and prediction intervals, in both noisy and noiseless setups."
+abstract: "We introduce directional regularity, a new definition of anisotropy for multivariate functional data. Instead of taking the conventional view, which determines anisotropy as a notion of smoothness along a dimension, directional
+regularity additionally views anisotropy through the lens of directions. We show that faster rates of convergence
+for smoothing can be obtained through a change-of-basis by adapting to the anisotropy of a bivariate process. An
+algorithm for the estimation and identification of the change-of-basis matrix is constructed, made possible due to
+the replication structure of functional data. Non-asymptotic bounds are provided for our algorithm, supplemented
+by numerical evidence from an extensive simulation study. Finally, a real-world rainfall measurement dataset is
+analyzed with our methods."
 
 tags:
 - Source Themes
 featured: false
 
 links:
-url_pdf: https://arxiv.org/abs/2412.08533
-url_code: https://github.com/sunnywang93/integratefda
+url_pdf: https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/68114?confirm=21c09947
+url_code: https://github.com/sunnywang93/direg
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -53,3 +59,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 
 ---
+
