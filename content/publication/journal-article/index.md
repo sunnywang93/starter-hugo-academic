@@ -34,7 +34,7 @@ tags:
 featured: false
 
 links:
-url_pdf: https://www.e-publications.org/ims/submission/BEJ/user/submissionFile/68114?confirm=21c09947
+url_pdf: https://arxiv.org/pdf/2409.00817
 url_code: https://github.com/sunnywang93/direg
 
 # Featured image
