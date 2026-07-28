@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted, Bernoulli"
+publication: "Forthcoming, Bernoulli"
 publication_short: ""
 
 abstract: "We introduce directional regularity, a new definition of anisotropy for multivariate functional data. Instead of taking the conventional view, which determines anisotropy as a notion of smoothness along a dimension, directional
