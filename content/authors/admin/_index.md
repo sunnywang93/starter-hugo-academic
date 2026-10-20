@@ -71,4 +71,4 @@ email: 'sunny.wanggw@ntu.edu.sg'
 highlight_name: true
 ---
 
-Hello and welcome! I am currently a postdoctoral research fellow at the Nanyang Technological University (NTU), working with Hemant Tyagi.
+Hello and welcome! I am currently a postdoctoral research fellow at Nanyang Technological University (NTU), working with Hemant Tyagi. Before this, I did my PhD at CREST-ENSAI, where I was supervised by Valentin Patilea.
