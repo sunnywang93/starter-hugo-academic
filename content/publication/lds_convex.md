@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "arxiv:2607.23502"
+publication: "arxiv:2607.11869"
 publication_short: ""
 
 abstract: "We consider the problem of learning structured linear dynamical systems over convex sets K, where only a small subset of the observations are available at each time point. An estimator which minimizes a bias-corrected, potentially non-convex objective function is proposed. Non-asymptotic bounds are obtained for the statistical error, which depend
